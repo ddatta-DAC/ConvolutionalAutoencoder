@@ -15,7 +15,7 @@ A simple convolutional autoencoder
 
 ------------------
 
-#Loss
+# Loss
 X axis : epochs   
 Y axis :  loss
 
