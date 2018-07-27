@@ -1,4 +1,4 @@
-# ConvolutionalAutoencoder
+# Tutorial on Convolutional Autoencoder with shared weights
 A simple convolutional autoencoder 
 
 - Tied / shared weights used.
